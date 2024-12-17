@@ -44,7 +44,7 @@
   <table>
     <tr>
       <td>
-        <img src="src/img/main.gif" width="100%" />
+        <img src="FE/narou_pjt/src/img/main.gif" width="100%" />
       </td>
     </tr>
   </table>
@@ -53,7 +53,7 @@
   <table>
     <tr>
       <td>
-        <img src="src/img/infinite_scroll.gif" width="100%" />
+        <img src="FE/narou_pjt/src/img/infinite_scroll.gif" width="100%" />
       </td>
     </tr>
   </table>
@@ -62,7 +62,7 @@
   <table>
     <tr>
       <td>
-        <img src="src/img/search.gif" width="100%" />
+        <img src="FE/narou_pjt/src/img/search.gif" width="100%" />
       </td>
     </tr>
   </table>
@@ -71,7 +71,7 @@
   <table>
     <tr>
       <td>
-        <img src="src/img/create.gif" width="100%" />
+        <img src="FE/narou_pjt/src/img/create.gif" width="100%" />
       </td>
     </tr>
   </table>
@@ -80,7 +80,7 @@
   <table>
     <tr>
       <td>
-        <img src="src/img/profile.gif" width="100%" />
+        <img src="FE/narou_pjt/src/img/profile.gif" width="100%" />
       </td>
     </tr>
   </table>
@@ -89,7 +89,7 @@
   <table>
     <tr>
       <td>
-        <img src="src/img/scrap.gif" width="100%" />
+        <img src="FE/narou_pjt/src/img/scrap.gif" width="100%" />
       </td>
     </tr>
   </table>
@@ -98,7 +98,7 @@
   <table>
     <tr>
       <td>
-        <img src="src/img/compare.gif" width="100%" />
+        <img src="FE/narou_pjt/src/img/compare.gif" width="100%" />
       </td>
     </tr>
   </table>
@@ -139,7 +139,7 @@
   <table>
     <tr>
       <td>
-        <img src="src/img/erd.png" width="100%"/>
+        <img src="FE/narou_pjt/src/img/erd.png" width="100%"/>
       </td>
     </tr>
   </table>
@@ -148,7 +148,7 @@
   <table>
     <tr>
       <td>
-        <img src="src/img/architecture.png" width="100%"/>
+        <img src="FE/narou_pjt/src/img/architecture.png" width="100%"/>
       </td>
     </tr>
   </table>
@@ -157,7 +157,7 @@
   <table>
     <tr>
       <td>
-        <img src="src/img/figma.png" width="100%" />
+        <img src="FE/narou_pjt/src/img/figma.png" width="100%" />
       </td>
     </tr>
   </table>
@@ -166,7 +166,7 @@
   <table>
     <tr>
       <td>
-        <img src="src/img/flowchart.png" width="100%"/>
+        <img src="FE/narou_pjt/src/img/flowchart.png" width="100%"/>
       </td>
     </tr>
   </table>
@@ -208,15 +208,15 @@
   </tr>
   <tr>
     <td width="33%" align="center">
-      <img src="src/img/nyk.jpg" width="100%"/>
+      <img src="FE/narou_pjt/src/img/nyk.jpg" width="100%"/>
       <b><a href="https://github.com/baloo365">나유경</a></b> 
     </td>
     <td width="33%" align="center">
-      <img src="src/img/lgh.jpg" width="100%"/>
+      <img src="FE/narou_pjt/src/img/lgh.jpg" width="100%"/>
       <b><a href="https://github.com/goldbutnew">이금현</a></b> 
     </td>
     <td width="33%" align="center">
-      <img src="src/img/lwj.png" width="100%"/>
+      <img src="FE/narou_pjt/src/img/lwj.png" width="100%"/>
       <b><a href="https://github.com/uuniversey">이우주</a></b> 
     </td>
   </tr>
